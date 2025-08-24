@@ -1,4 +1,8 @@
-int main()
+#include <stdio.h>
+
+int	main(void)
 {
-	return(0);
+	printf("kuwakuwa\n");
+	printf("nishiyama\n");
+	return (0);
 }
